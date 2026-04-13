@@ -10,6 +10,7 @@ public class ExclusaoCliente {
         
         System.out.println("\n --EXCLUIR CLIENTE --");
         System.out.println("Iniciando a exclusao");
+        System.out.println("OK");
         System.out.print("Digite o ID do cliente: ");
         int id = sc.nextInt();
         sc.nextLine();
